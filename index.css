@@ -1,0 +1,16 @@
+::-webkit-scrollbar{						
+	width: 10px;
+	height: 10px;
+	background-color: #ffffff90;
+	transition: 1s;
+}
+::-webkit-scrollbar-thumb{
+	background: #393939;
+	transition: 1s;
+}
+::selection {
+    background: #2D9CDB40;
+}
+::-moz-selection {
+    background: #2D9CDB40;
+}
