@@ -99,9 +99,10 @@ a:hover{
 }
 
 h1{
+    width: 100%;
 	text-align: center;
 	margin: 0;
-	font-size: 4em;
+	font-size: 3em;
 	font-family: Brutal_Medium, "Open Sans", arial;
 	font-feature-settings: "kern" 1;
 	font-weight: 500;
