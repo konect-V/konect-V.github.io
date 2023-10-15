@@ -44,6 +44,22 @@ a {
     max-width: 90%;
 }
 
+#github {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+#github:hover {
+    background-color: #444;
+}
+
 #biggest-project a {
     background-color: #007bff;
     color: #fff;
